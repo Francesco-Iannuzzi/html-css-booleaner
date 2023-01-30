@@ -20,6 +20,15 @@ h1 {
     font-size: 20px;
 }
 
+.subheading_data{
+    color: grey;
+    font-size: 15px;
+}
+
 .photo_tim {
     margin-top: 20px;
+}
+
+.big {
+    font-size: 24px;
 }
