@@ -26,10 +26,16 @@ h1 {
     font-size: 15px;
 }
 
-.photo_tim {
+#container_photo {
+    text-align: center;
     margin-top: 20px;
-    image-rendering: auto;
 }
+
+.photo_tim {
+    width: 48%;
+    max-height: 700px;
+}
+
 
 .big {
     font-size: 24px;
