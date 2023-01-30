@@ -1,6 +1,6 @@
 .app_header {
     background-color: #4ea0ff;
-    background-image: url(/img/pattern.png);
+    background-image: url("../img/pattern.png");
 }
 
 #vector_logo {
@@ -36,24 +36,19 @@ h1 {
 
 table {
     text-align: left;
+    border-spacing: 0;
 }
 
 thead {
     color: white;
     background-color: #20a9e5;
-    padding: 0;
-    margin: 0;
-}
-
-.small_box {
-width: 25%;
 }
 
 .big_box {
 width: 50%;
 }
 
-.lightblue {
+.odd {
     background-color: #b1e5f2;
 }
 
