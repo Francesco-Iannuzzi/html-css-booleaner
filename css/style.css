@@ -28,10 +28,15 @@ h1 {
 
 .photo_tim {
     margin-top: 20px;
+    image-rendering: auto;
 }
 
 .big {
     font-size: 24px;
+}
+
+.highlighted {
+    background-color: yellow;
 }
 
 table {
