@@ -1,6 +1,6 @@
 .app_header {
     background-color: #4ea0ff;
-    background-image: url(file:///Users/unaltrodio/Desktop/Boolean/Lezioni/Esercizi/html-css-booleaner/img/pattern.png);
+    background-image: url(/img/pattern.png);
 }
 
 #vector_logo {
@@ -31,4 +31,28 @@ h1 {
 
 .big {
     font-size: 24px;
+}
+
+table {
+    text-align: left;
+}
+
+thead {
+    color: white;
+}
+
+.small_box {
+width: 25%;
+background-color: #20a9e5;
+padding: 0;
+}
+
+.big_box {
+width: 50%;
+background-color: #20a9e5;
+padding: 0;
+}
+
+.lightblue {
+    background-color: #b1e5f2;
 }
