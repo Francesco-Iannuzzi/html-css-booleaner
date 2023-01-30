@@ -39,20 +39,28 @@ table {
 
 thead {
     color: white;
+    background-color: #20a9e5;
+    padding: 0;
+    margin: 0;
 }
 
 .small_box {
 width: 25%;
-background-color: #20a9e5;
-padding: 0;
 }
 
 .big_box {
 width: 50%;
-background-color: #20a9e5;
-padding: 0;
 }
 
 .lightblue {
     background-color: #b1e5f2;
+}
+
+h4 {
+    color: grey;
+    font-size: 28px;
+}
+
+.app_footer {
+    text-align: center;
 }
