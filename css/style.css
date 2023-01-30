@@ -68,6 +68,18 @@ h4 {
     font-size: 28px;
 }
 
+.photo_interest {
+    position: relative;
+}
+
+.text_photo {
+    position: absolute;
+    top: 10px;
+    left: 15px;
+    color: white;
+    font-size: 30px;
+}
+
 .app_footer {
     text-align: center;
 }
